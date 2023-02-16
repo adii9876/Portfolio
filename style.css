@@ -367,11 +367,7 @@ form textarea {
     display: block;
     background: var(--bg-color);
   }
-  #darkmode {
-    position: absolute;
-    top: 1.4rem;
-    right: 2rem;
-  }
+ 
   .scroll-down {
     display: none;
   }
